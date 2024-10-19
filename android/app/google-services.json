@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "25128005252",
+    "project_id": "diabestant",
+    "storage_bucket": "diabestant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25128005252:android:aa02abc3d7f300504e9cd1",
+        "android_client_info": {
+          "package_name": "com.id.diabestant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD84NVbXkkzNrDpvXTuUxArBTcXrtpNBVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
